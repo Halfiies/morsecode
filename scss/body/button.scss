@@ -1,0 +1,15 @@
+@use "../abstract/abstracts.scss" as *;
+button {
+  display: flex;
+  justify-content: center;
+  margin-left: 20%;
+  background-color: $colorsecondary;
+  color: $textcolor;
+  width: 100px;
+  height: 30px;
+  font-size: 20px;
+  font-family: $secondaryfont;
+}
+button:hover {
+  background-color: $hovercolor;
+}

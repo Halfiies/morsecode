@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri&family=Roboto&display=swap');
+$mainfont: 'Hind Siliguri', sans-serif;
+$secondaryfont: 'Roboto', sans-serif;
+$backgroundcolor: #ADB5BD;
+$colorprimary: #6C757D;
+$colorsecondary: #343A40;
+$colorcontrast: #DEE2E6;
+$textcolor: #DEE2E6;
+$hovercolor: #40474F;
+* {
+  background-color: $colorprimary;
+}

@@ -1,0 +1,13 @@
+@use "../abstract/abstracts.scss" as *;
+div {
+  display: flex;
+  justify-content: space-around;
+  margin: auto;
+}
+textarea {
+  background-color: $colorcontrast;
+  font-family: $secondaryfont;
+  border:solid 2px $colorsecondary;
+  border-radius: 2px;
+  min-width: 30%;
+}

@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css2?family=Hind+Siliguri&family=Roboto&display=swap");
+* {
+  background-color: #6C757D;
+}
+
+div {
+  display: flex;
+  justify-content: space-around;
+  margin: auto;
+}
+
+textarea {
+  background-color: #DEE2E6;
+  font-family: "Roboto", sans-serif;
+  border: solid 2px #343A40;
+  border-radius: 2px;
+  min-width: 30%;
+}
+
+button {
+  display: flex;
+  justify-content: center;
+  margin-left: 20%;
+  background-color: #343A40;
+  color: #DEE2E6;
+  width: 100px;
+  height: 30px;
+  font-size: 20px;
+  font-family: "Roboto", sans-serif;
+}
+
+button:hover {
+  background-color: #40474F;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+  color: #DEE2E6;
+  font-family: "Hind Siliguri", sans-serif;
+  text-decoration: underline;
+}
+
+/*# sourceMappingURL=main.css.map */

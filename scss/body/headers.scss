@@ -1,0 +1,8 @@
+@use "../abstract/abstracts.scss" as *;
+h1 {
+  display: flex;
+  justify-content: center;
+  color: $textcolor;
+  font-family: $mainfont;
+  text-decoration: underline;
+}
